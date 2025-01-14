@@ -1,2 +1,0 @@
-# PranjalTamta/Twitter-scraping-selenium
- 
